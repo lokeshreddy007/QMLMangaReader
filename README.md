@@ -1,3 +1,3 @@
 # QMLMangaReader
 
-App to Read Mango 
+App to Read Manga
