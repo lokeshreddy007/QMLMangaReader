@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>Chapter.qml</file>
+        <file>Pages.qml</file>
+        <file>mangaApi.js</file>
+    </qresource>
+</RCC>
